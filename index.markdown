@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<a rel="me" href="https://infosec.exchange/@seccatherder">Mastodon: @seccatherder@infosec.exchange</a>
